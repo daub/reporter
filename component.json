@@ -1,0 +1,16 @@
+{
+  "name": "engine-reporter",
+  "description": "Console reporting for `decanat-engine`.",
+  "version": "0.5.0",
+  "license": "MIT",
+  "keywords": [
+    "decanat-engine"
+  ],
+  "repo": "decanat/engine-reporter",
+  "dependencies": {},
+  "development": {},
+  "main": "lib/noop.js",
+  "scripts": [
+    "lib/noop.js"
+  ]
+}
