@@ -1,19 +1,19 @@
 {
-  "name": "decanat-engine-reporter",
-  "description": "Console reporting for `decanat-engine`.",
-  "version": "0.5.2",
+  "name": "daub-reporter",
+  "description": "Console reporting for Daub.",
+  "version": "1.0.0",
   "author": "Mushex Antaranian",
   "license": "MIT",
   "keywords": [
-    "decanat-engine"
+    "daub"
   ],
-  "homepage": "https://github.com/decanat/engine-reporter",
+  "homepage": "https://github.com/daub/reporter",
   "repository": {
     "type": "git",
-    "url": "http://github.com/decanat/engine-reporter.git"
+    "url": "http://github.com/daub/reporter.git"
   },
   "bugs": {
-    "url": "https://github.com/decanat/engine-reporter/issues"
+    "url": "https://github.com/daub/reporter/issues"
   },
   "engines": {
     "node": ">=0.10.0"

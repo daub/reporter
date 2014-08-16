@@ -1,12 +1,12 @@
 {
-  "name": "engine-reporter",
-  "description": "Console reporting for `decanat-engine`.",
-  "version": "0.5.2",
+  "name": "reporter",
+  "repository": "daub/reporter",
+  "description": "Console reporting for Daub.",
+  "version": "1.0.0",
   "license": "MIT",
   "keywords": [
-    "decanat-engine"
+    "daub"
   ],
-  "repo": "decanat/engine-reporter",
   "dependencies": {},
   "development": {},
   "main": "lib/reporter.js",
