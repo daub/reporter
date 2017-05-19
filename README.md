@@ -22,7 +22,7 @@ report('Invalid source.', { path: '/views/index.html' })
 
 ## Test
 
-Run tests with [mocha](http://visionmedia.github.io/mocha/)
+Run tests with [mocha](http://mochajs.org/)
 
     $ make test
 
